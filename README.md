@@ -1,39 +1,60 @@
-# Hello!
+# 👋 Hello!
 
-Hi, I'm Phong, a CS + Linguistics major at UCLA with a passion for building impactful technology. Interested in full-stack and machine learning.
-
----
-
-## Contact
-
-- Email: ph0ngnguyen@g.ucla.edu  
-- LinkedIn: [www.linkedin.com/in/ph0ngnguyen](www.linkedin.com/in/ph0ngnguyen)
+Hi, I'm **Phong**, a Computer Science + Linguistics major at **UCLA** with a passion for building impactful technology. I'm especially interested in **full-stack development** and **machine learning**, and I love turning creative ideas into real-world applications.
 
 ---
 
-## My Projects
+## 📬 Contact
 
-### [Form Fitness]
-
-3 friends and I created Form Fitness in 36 hours as our project for UCLA's annual Hackathon, LAHacks. It's an AI-powered, all-in-one fitness app that utilizies computer vision and machine learning to track exercise form in real-time and provide actionable feedback. Furthermore, the app can be used to track daily workouts and provide workout statistics. We used React and TypeScript on the frontend and Flask on the backend, with TensorFlow and Google MoveNet for the computer vision components.
-
----
-
-### [Image to Song]
-
-Image to Song is a web app that recommends music based on an image you upload. The system uses a Hugging Face vision model to extract descriptive tags from the image and then queries a chat model via Groq to generate relevant song suggestions. The frontend was built with React, and the backend uses Flask. This project focuses on combining multi-modal AI (vision and language) to generate creative, emotion-driven recommendations—all without the need for paid API tokens.
-
+- 📧 Email: [ph0ngnguyen@g.ucla.edu](mailto:ph0ngnguyen@g.ucla.edu)  
+- 💼 LinkedIn: [linkedin.com/in/ph0ngnguyen](https://www.linkedin.com/in/ph0ngnguyen)  
+- 💻 GitHub: [github.com/phongtnguyen2006](https://github.com/phongtnguyen2006)
 
 ---
 
-### [SIP]
+## 💻 Projects
 
-SIP is a mobile app my team and I built at UCLA’s Creative Labs to help users save, review, and discover cafés. As the Developer Lead, I led a team of six developers, designing the system architecture, assigning weekly deliverables, and coordinating with project leads and UI/UX designers. The app was built with React Native, Firebase for authentication and real-time updates, and a Node.js + Express backend with MongoDB. We implemented a keyword-based search with natural language parsing and created a system to aggregate user input to display commonly mentioned features and average ratings.
+### 🏋️‍♂️ Form Fitness
+
+Built in 36 hours at **LAHacks**, Form Fitness is an AI-powered fitness app that uses computer vision and machine learning to provide real-time form correction and track workout stats.  
+
+- 🧠 Powered by **TensorFlow** and **Google MoveNet** to analyze joint angles, count reps, and detect poor form  
+- 🛠️ Built with **React + TypeScript** (frontend) and **Flask** (backend)  
+- 🔐 Features account login, personalized workout history, and AI feedback with a Gemini AI virtual coach  
 
 ---
 
-### [UCSB DINE IN]
+### 🎵 Image to Song
 
-UCSB Dine-In is a full-stack web app built in 24 hours at a hackathon with 3 friends. It’s designed for UC Santa Barbara students to share dining hall food reviews, post photos, and check daily menus in real-time. I used Next.js for the front-end and Supabase for the backend and authentication, styling the app with Tailwind CSS and Bootstrap. We integrated UCSB’s public dining API to fetch live menu data, enabling students to make informed dining decisions and engage with a food-loving campus community.
+A creative, multi-modal web app that recommends songs based on the vibe of an uploaded image.  
 
+- 🖼️ Uses a **Hugging Face** vision model to generate descriptive tags  
+- 💬 Feeds those tags into a **Groq-hosted chat model** to return personalized song suggestions  
+- 🧰 Built with **React** (frontend) and **Flask** (backend)  
+- 💡 Designed to work *without* paid API keys by locally hosting models  
 
+---
+
+### ☕ SIP (Save, Input, Preserve)
+
+SIP is a café discovery and review app developed through **Creative Labs @ UCLA**.  
+
+- 👨‍💻 Led a team of 6 developers as **Developer Lead**, coordinating backend, frontend, and weekly sprints  
+- 📱 Built with **React Native** and **Firebase** for real-time data and secure authentication  
+- 🔍 Backend built with **Node.js + Express + MongoDB**, featuring natural language keyword parsing and a dynamic search system  
+- 🌟 Aggregates user reviews to display top-rated features and average sentiment  
+
+---
+
+### 🍽️ UCSB Dine-In
+
+Built in 24 hours at a hackathon with 3 friends, UCSB Dine-In helps students explore daily dining hall menus and share honest reviews.  
+
+- ⚙️ Full-stack app with **Next.js** (frontend) and **Supabase** (backend + auth)  
+- 🧠 Integrated **UCSB’s Dining API** for live menu updates  
+- 🎨 Styled with **Tailwind CSS** and **Bootstrap**  
+- 📸 Allows photo uploads, star ratings, and community-sourced food insights  
+
+---
+
+Thanks for stopping by! Feel free to reach out or explore the repos pinned below. 😊
