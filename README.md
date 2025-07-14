@@ -1,6 +1,6 @@
 # Hello!
 
-My name is [Your Name], a student and aspiring [Your Role/Title] currently studying [Your Major] at [Your University], graduating in [Your Graduation Date].
+Hi, I'm Phong, a CS + Linguistics major at UCLA with a passion for building impactful technology. Interested in full-stack and machine learning.
 
 ---
 
