@@ -6,7 +6,7 @@ My name is [Your Name], a student and aspiring [Your Role/Title] currently study
 
 ## Contact
 
-- Email: [ph0ngnguyen@g.ucla.edu]  
+- Email: ph0ngnguyen@g.ucla.edu  
 - LinkedIn: [www.linkedin.com/in/ph0ngnguyen](www.linkedin.com/in/ph0ngnguyen)
 
 ---
