@@ -14,6 +14,10 @@ Hi, I'm **Phong**, a Computer Science + Linguistics major at **UCLA** with a pas
 
 ## 💻 Projects
 
+### 🪏 RAPPR
+- Currently building Rappr, a music betting app... Check out our landing page at [https://www.rappr.bet/](https://www.rappr.bet/)
+
+
 ### 🏋️‍♂️ Form Fitness
 
 Built in 36 hours at **LAHacks**, Form Fitness is an AI-powered fitness app that uses computer vision and machine learning to provide real-time form correction and track workout stats.
